@@ -1,0 +1,8 @@
+1. Question: What are some examples of supervised learning in AI?
+   Correct Answer: Supervised learning includes tasks such as image classification, speech recognition, and natural language processing.
+
+2. Question: Can you name an example of unsupervised learning in AI?
+   Correct Answer: Clustering is an example of unsupervised learning where data points are grouped based on their similarity.
+
+3. Question: How might the use of AI contribute to potential privacy concerns and civil liberties infringements?
+   Correct Answer: The use of AI in surveillance or policing could lead to civil liberties infringements, as it may enable overreach and monitoring without proper oversight. Additionally, AI-powered recommendation systems and chatbots can spread misinformation, leading to privacy concerns and a lack of accurate information.
